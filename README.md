@@ -15,7 +15,7 @@
 7. [Rise of RSA](#rise-of-rsa)
 8. [Conclusion](#conclusion)
 9. [Applications](#applications)
-10. [License](#license)
+
 
 ## Introduction
 
